@@ -34,8 +34,9 @@ I aim to further specialize in cybersecurity by contributing to Security Operati
 
 ### Endpoint Protection
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Palo_Alto_XDR-FF6C37?&style=for-the-badge&logo=palo-alto-networks&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Palo_Alto_WildFire-F26724?&style=for-the-badge&logo=palo-alto-networks&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Palo_Alto_XSIAM-0073CF?&style=for-the-badge&logo=palo-alto-networks&logoColor=white" />
 </div>
 
 ### Threat Detection and Automation
@@ -59,3 +60,5 @@ I aim to further specialize in cybersecurity by contributing to Security Operati
 - <a href="https://github.com/alarmant0/auto-attendance">Auto Attendance</a>: An automated attendance checker for educational purposes.  
 
 ---
+
+Let me know if there’s anything else you’d like to add or adjust!
