@@ -1,3 +1,8 @@
+<div align="center" width="100">
+  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=David%20Pinheiro&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn"
+  alt="header"/>
+</div>
+
 # Hello, I'm David Pinheiro
 <a href="https://linkedin.com/in/davidmbp"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
@@ -27,7 +32,6 @@ I aim to further specialize in cybersecurity by contributing to Security Operati
 
 ### SIEM Platforms
 <div>
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Palo_Alto_XSIAM-0073CF?&style=for-the-badge&logo=palo-alto-networks&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic_SIEM-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
@@ -41,6 +45,8 @@ I aim to further specialize in cybersecurity by contributing to Security Operati
 
 ### Threat Detection and Automation
 <div>
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Snort-CC0000?&style=for-the-badge&logo=Snort&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
     <img src="https://img.shields.io/badge/-Shuffle_SOAR-333333?&style=for-the-badge&logoColor=white" />
 </div>
@@ -60,5 +66,3 @@ I aim to further specialize in cybersecurity by contributing to Security Operati
 - <a href="https://github.com/alarmant0/auto-attendance">Auto Attendance</a>: An automated attendance checker for educational purposes.  
 
 ---
-
-Let me know if there’s anything else you’d like to add or adjust!
