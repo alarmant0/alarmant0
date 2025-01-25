@@ -20,24 +20,28 @@ I aim to further specialize in cybersecurity by contributing to Security Operati
 
 ## Tools
 
-### Network
+### Network Analysis
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
-### Endpoint
+### SIEM Platforms
+<div>
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Palo_Alto_XSIAM-0073CF?&style=for-the-badge&logo=palo-alto-networks&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic_SIEM-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+### Endpoint Protection
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
-### SIEM
+### Threat Detection and Automation
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Shuffle_SOAR-333333?&style=for-the-badge&logoColor=white" />
 </div>
 
 ## Certifications
@@ -55,5 +59,3 @@ I aim to further specialize in cybersecurity by contributing to Security Operati
 - <a href="https://github.com/alarmant0/auto-attendance">Auto Attendance</a>: An automated attendance checker for educational purposes.  
 
 ---
-
-Let me know if there’s anything else you’d like to add or customize further!
