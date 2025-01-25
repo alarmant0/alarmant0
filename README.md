@@ -1,53 +1,59 @@
-# Hi there, I'm David Pinheiro! 👋
+# Hello, I'm David Pinheiro
+<a href="https://linkedin.com/in/davidmbp"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=alarmant0&color=blue)
+I am a cybersecurity analyst passionate about exploring both defensive (Blue Team) and offensive (Red Team) strategies. My journey in computer science and cybersecurity has equipped me with the skills and certifications needed to thrive in the ever-evolving tech landscape.
 
-![GitHub Snake Animation](https://github.com/alarmant0/alarmant0/blob/output/github-contribution-grid-snake.svg)
+## Objective
 
-## About Me
+I aim to further specialize in cybersecurity by contributing to Security Operations Centers (SOC) and improving the security posture of organizations through incident detection, response, and mitigation.
 
-I'm a curious and driven learner with a passion for technology and cybersecurity. I thrive in the dynamic world of cybersecurity, where I specialize in both **Blue Team (defense)** and **Red Team (offense)** strategies. From understanding how to protect systems to uncovering their vulnerabilities, I enjoy tackling challenges head-on and learning as I go.
+## Skills
 
-- 🎓 **Education:**  
-  - **ISCTE - Instituto Universitário de Lisboa:** Bachelor's in Telecommunications and Computer Engineering (2021–2025)  
-  - **ESILV - École Supérieure d'Ingénieurs Léonard de Vinci:** Master's in Cybersecurity and Cloud Computing (2024)  
+| Skill                                          | Associated Project         |
+|------------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis           | <a href="https://github.com/alarmant0">SOC Tools Setup</a> |
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/alarmant0">Network Defense Lab</a> |
+| Security Automation with Shuffle SOAR          | SOC Automation Lab |
+| Incident Response Planning and Execution       | Incident Response Toolkit |
+| Case Management with TheHive                   | SOC Case Management Demo |
+| Scripting and Automation for Threat Mitigation | Python Automation Scripts |
 
-- 💼 **Experience:**  
-  - **SOC Analyst @ Paldata (2025–Present):** Working with Palo Alto Networks technology to secure critical systems.  
-  - **Mobile App Developer @ Caixa Mágica Software (2024):** Developed iOS and Android apps during a summer internship.  
+## Tools
 
-- 📚 **Certifications:**  
-  - **Cisco Certified CyberOps Associate (2023):** Strong foundation in network security and threat analysis.  
-  - **Introduction to Cybersecurity (2023):** Solid fundamentals in Linux and cybersecurity principles.  
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+</div>
 
-- 🤝 **Learning & Growing:** Constantly expanding my knowledge through hands-on projects, certifications, and engaging with the tech community.
+### Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+</div>
 
-## 🔧 Technologies & Tools
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
 
-## 📈 GitHub Stats
+## Certifications
 
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=alarmant0&show_icons=true&theme=radical)
-(Not that good, I know...)
+<div>
+<img src="https://img.shields.io/badge/-Cisco_CyberOps_Associate-005FCC?&style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/-Introduction_to_Cybersecurity-007ACC?&style=for-the-badge&logo=cisco&logoColor=white" />
+</div>
 
-## 🚀 Projects
+## Projects
 
-Here are some of the projects I've been working on:
-
-- **Password Manager:** A secure password manager built with Python.  
-- **FoodShop:** A web application with a frontend and two backends for order and inventory management.  
-- **Event Queue Application:** A Dockerized event-driven architecture using Nginx, Redis, and Go.  
-- **Auto Attendance:** An automated attendance checker for educational purposes.  
-
-Feel free to explore my repositories to see more of my work!
-
-## 📫 Get in Touch
-
-I'm always open to connecting with fellow developers and cybersecurity enthusiasts. You can reach me through:
-
-- [LinkedIn](https://www.linkedin.com/in/david-pinheiro-alarmant0)  
-- [Email](mailto:davidpinheirombp57@gmail.com)  
+- <a href="https://github.com/alarmant0/password-manager">Password Manager</a>: A secure password manager built with Python.  
+- <a href="https://github.com/alarmant0/foodshop">FoodShop</a>: A web application with a frontend and two backends for order and inventory management.  
+- <a href="https://github.com/alarmant0/event-queue">Event Queue Application</a>: A Dockerized event-driven architecture using Nginx, Redis, and Go.  
+- <a href="https://github.com/alarmant0/auto-attendance">Auto Attendance</a>: An automated attendance checker for educational purposes.  
 
 ---
 
-Let me know if you'd like further customizations or edits!
+Let me know if there’s anything else you’d like to add or customize further!
