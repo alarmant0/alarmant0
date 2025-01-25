@@ -4,6 +4,7 @@
 
 # Hello, I'm David Pinheiro
 <a href="https://linkedin.com/in/davidmbp"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:davidpinheirombp57@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 I am a cybersecurity analyst passionate about exploring both defensive (Blue Team) and offensive (Red Team) strategies. My journey in computer science and cybersecurity has equipped me with the skills and certifications needed to thrive in the ever-evolving tech landscape.
 
@@ -47,16 +48,40 @@ I aim to further specialize in cybersecurity by contributing to Security Operati
 ### Network Analysis
 <div align="center">
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" alt="Wireshark"/>
+    <img src="https://img.shields.io/badge/-tcpdump-000000?&style=for-the-badge&logoColor=white" alt="tcpdump"/>
 </div>
 
 ### SIEM Platforms
 <div align="center">
     <img src="https://img.shields.io/badge/-Palo_Alto_XSIAM-0073CF?&style=for-the-badge&logo=palo-alto-networks&logoColor=white" alt="Palo Alto XSIAM"/>
     <img src="https://img.shields.io/badge/-Elastic_SIEM-005571?&style=for-the-badge&logo=Elastic&logoColor=white" alt="Elastic SIEM"/>
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" alt="Splunk"/>
+    <img src="https://img.shields.io/badge/-Fortinet-FF6C37?&style=for-the-badge&logo=fortinet&logoColor=white" alt="Fortinet"/>
 </div>
 
 ### Endpoint Protection
 <div align="center">
+    <img src="https://img.shields.io/badge/-Palo_Alto_XSIAM-0073CF?&style=for-the-badge&logo=palo-alto-networks&logoColor=white" alt="Palo Alto XSIAM"/>
     <img src="https://img.shields.io/badge/-Palo_Alto_XDR-FF6C37?&style=for-the-badge&logo=palo-alto-networks&logoColor=white" alt="Palo Alto XDR"/>
-    <img src="https://img.shields.io/badge/-Palo_Alto_WildFire-F26724?&style=for-the-badge&logo=palo-alto-networks&logoColor=white" alt="Palo Alto WildFire"/>
 </div>
+
+### Vulnerability Assessment
+<div align="center">
+    <img src="https://img.shields.io/badge/-Nessus-1C75BC?&style=for-the-badge&logoColor=white" alt="Nessus"/>
+    <img src="https://img.shields.io/badge/-OpenVAS-006400?&style=for-the-badge&logoColor=white" alt="OpenVAS"/>
+    <img src="https://img.shields.io/badge/-Qualys-F50819?&style=for-the-badge&logoColor=white" alt="Qualys"/>
+</div>
+
+## Certifications
+
+<div>
+<img src="https://img.shields.io/badge/-Cisco_CyberOps_Associate-005FCC?&style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/-Introduction_to_Cybersecurity-007ACC?&style=for-the-badge&logo=cisco&logoColor=white" />
+</div>
+
+## Projects
+
+- <a href="https://github.com/alarmant0/password-manager">Password Manager</a>: A secure password manager built with Python.  
+- <a href="https://github.com/alarmant0/foodshop">FoodShop</a>: A web application with a frontend and two backends for order and inventory management.  
+- <a href="https://github.com/alarmant0/event-queue">Event Queue Application</a>: A Dockerized event-driven architecture using Nginx, Redis, and Go.  
+- <a href="https://github.com/alarmant0/auto-attendance">Auto Attendance</a>: An automated attendance checker for educational purposes.
