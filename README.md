@@ -53,7 +53,6 @@ I aim to further specialize in cybersecurity by contributing to Security Operati
 
 ### SIEM Platforms
 <div align="center">
-    <img src="https://img.shields.io/badge/-Palo_Alto_XSIAM-0073CF?&style=for-the-badge&logo=palo-alto-networks&logoColor=white" alt="Palo Alto XSIAM"/>
     <img src="https://img.shields.io/badge/-Elastic_SIEM-005571?&style=for-the-badge&logo=Elastic&logoColor=white" alt="Elastic SIEM"/>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" alt="Splunk"/>
     <img src="https://img.shields.io/badge/-Fortinet-FF6C37?&style=for-the-badge&logo=fortinet&logoColor=white" alt="Fortinet"/>
