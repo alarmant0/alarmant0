@@ -14,7 +14,7 @@ I aim to further specialize in cybersecurity by contributing to Security Operati
 
 ---
 
-## Languages and Tools
+## Languages
 <div align="center">
   <p>
     <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/></a>
