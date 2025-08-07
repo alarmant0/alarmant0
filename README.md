@@ -82,5 +82,5 @@ I aim to further specialize in cybersecurity by contributing to Security Operati
 
 - <a href="https://github.com/alarmant0/password-manager">Password Manager</a>: A secure password manager built with Python.  
 - <a href="https://github.com/alarmant0/foodshop">FoodShop</a>: A web application with a frontend and two backends for order and inventory management.  
-- <a href="https://github.com/alarmant0/event-queue">Event Queue Application</a>: A Dockerized event-driven architecture using Nginx, Redis, and Go.  
-- <a href="https://github.com/alarmant0/auto-attendance">Auto Attendance</a>: An automated attendance checker for educational purposes.
+- <a href="https://github.com/alarmant0/Event-queue-application">Event Queue Application</a>: A Dockerized event-driven architecture using Nginx, Redis, and Go.  
+- <a href="https://github.com/alarmant0/AutoAttendanceLeonardDeVinciUniversity">Auto Attendance</a>: An automated attendance checker for educational purposes.
