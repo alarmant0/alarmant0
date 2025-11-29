@@ -3,8 +3,6 @@
 </div>
 
 # Hello, I'm David Pinheiro
-<a href="https://linkedin.com/in/davidmbp"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:davidpinheirombp57@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 I am a cybersecurity analyst passionate about exploring both defensive (Blue Team) and offensive (Red Team) strategies. My journey in computer science and cybersecurity has equipped me with the skills and certifications needed to thrive in the ever-evolving tech landscape.
 
