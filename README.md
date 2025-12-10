@@ -9,7 +9,6 @@
     <img 
       src="https://tryhackme-badges.s3.amazonaws.com/alarmant0.png"
       alt="TryHackMe Badge"
-      width="430"
       style="border-radius: 12px;"
     />
   </a>
@@ -38,11 +37,11 @@ I study how attackers operate to help detect, prevent, and respond to threats.
 
 # 🎯 Objective
 
-hack stuff
+"hack" stuff
 
 ---
 
-# 🛠️ Technologies & Skills
+# 🛠️ Skills
 
 <div align="center">
   <p>
@@ -66,7 +65,7 @@ hack stuff
 
 ---
 
-# 🧰 Cybersecurity Tools
+# 🧰 Tools
 
 ### 🔍 **Network Analysis**
 <div align="center">
@@ -86,7 +85,7 @@ hack stuff
     <img src="https://img.shields.io/badge/Netcat-005f73?style=for-the-badge&logoColor=white" />
 </div>
 
-### 🛡️ **SIEM & Monitoring (Blue Team)**
+### 🛡️ **SIEM & Monitoring**
 <div align="center">
     <img src="https://img.shields.io/badge/Elastic_SIEM-005571?style=for-the-badge&logo=elastic&logoColor=white" />
     <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
@@ -124,3 +123,4 @@ hack stuff
 - <a href="https://github.com/alarmant0/foodshop">FoodShop</a> — A web application built with a microservices architecture.  
 - <a href="https://github.com/alarmant0/Event-queue-application">Event Queue Application</a> — A Dockerized event-driven system using Nginx, Redis, and Go.  
 - <a href="https://github.com/alarmant0/AutoAttendanceLeonardDeVinciUniversity">Auto Attendance</a> — An automated attendance checker for educational institutions.
+- And more to come
