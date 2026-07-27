@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=piners&fontColor=ffffff&fontSize=80" />
 
   <br>
-  <a href="https://tryhackme.com/p/alarmant0" target="_blank">
+  <a href="https://tryhackme.com/p/piners" target="_blank">
     <img 
       src="https://tryhackme-badges.s3.amazonaws.com/alarmant0.png"
       alt="TryHackMe Badge"
